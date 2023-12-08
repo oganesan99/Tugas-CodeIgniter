@@ -4,3 +4,12 @@ ini lo
 https://drive.google.com/drive/folders/1h2GuXG4D-GFV36mi9uJdvzWPmXmqAVRb
 
 ingat ganti nama database, nama table, di file filenya juga
+
+Cari yang $query
+/edit/user.php
+/list/user.php
+/proses/auth/login.php
+/proses/edit/user.php
+/proses/hapus/user.php
+/proses/tambah/user.php
+/utils/connection.php
